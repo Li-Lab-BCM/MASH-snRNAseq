@@ -1,0 +1,27 @@
+## CellBender preprocessing and h5 -> h5ad conversion (00b, 00c)
+Python 3.7.12
+cellbender 0.3.0
+scanpy 1.9.3
+anndata 0.7.8
+numpy 1.19.5
+pandas 1.1.4
+scipy 1.7.3
+
+## scVI integration (04)
+Python 3.10.18
+scanpy 1.10.4
+anndata 0.11.4
+scvi-tools 1.2.1
+torch 2.6.0+cu124
+numpy 1.26.4
+pandas 2.3.3
+
+## RNA velocity (09b)
+Python 3.10.18
+scvelo 0.3.3
+scanpy 1.11.4
+anndata 0.11.4
+loompy 3.0.8
+numpy 1.26.4
+pandas 2.3.2
+matplotlib 3.10.6

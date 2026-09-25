@@ -1,0 +1,14 @@
+sample	group	removed_pct	expected_pct	gene_corr	learning_curve	genes_flagged	note
+A1	CHOW	8.12	8.18	0.9946	normal	Gm19951	NA
+A2	CHOW	15.72	16.51	0.9884	normal	Camk1d, Gm19951, Lars2	Higher ambient RNA fraction than other samples; removal matched expectation.
+A3	CHOW	7.37	7.23	0.9981	normal		NA
+B1	MASH	8.47	8.68	0.9935	normal	Gm19951	NA
+B2	MASH	10.35	10.63	0.9964	normal	Gm19951, Lars2	NA
+B3	MASH	7.3	7.16	0.9982	normal		NA
+D1	MASH_antiSPP1	5.87	5.79	0.9962	normal	Gm19951, Lars2	NA
+D2	MASH_antiSPP1	4.74	4.66	0.9957	flagged	Lars2	Report flagged a slight late-training drop in test ELBO; removal metrics within expected range; retained.
+D3	MASH_antiSPP1	8.72	8.58	0.9982	normal		NA
+F1	MASH_SPP1_KO	7.88	7.8	0.9981	normal		NA
+F3	MASH_SPP1_KO	6.22	6.08	0.9979	normal		NA
+G1	MASH_flox	6.72	6.59	0.9984	normal		NA
+G2	MASH_flox	10.42	10.38	0.9983	normal		NA

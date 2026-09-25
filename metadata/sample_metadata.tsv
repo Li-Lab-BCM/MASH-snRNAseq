@@ -1,0 +1,14 @@
+Sample	orig.ident	Group	Batch	Replicate
+A1	CHOW_1	CHOW	batch1	1
+A2	CHOW_2	CHOW	batch1	2
+A3	CHOW_3	CHOW	batch3	3
+B1	MASH_1	MASH	batch1	1
+B2	MASH_2	MASH	batch1	2
+B3	MASH_3	MASH	batch3	3
+D1	MASHantiSPP1_1	MASHantiSPP1	batch2	1
+D2	MASHantiSPP1_2	MASHantiSPP1	batch2	2
+D3	MASHantiSPP1_3	MASHantiSPP1	batch3	3
+G1	MASH_flox_1	MASH_flox	batch3	1
+G2	MASH_flox_2	MASH_flox	batch3	2
+F1	MASH_SPP1KO_1	MASH_SPP1KO	batch3	1
+F3	MASH_SPP1KO_2	MASH_SPP1KO	batch3	2
